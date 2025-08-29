@@ -1,0 +1,35 @@
+Aula4:
+
+1º Criptografia - QuebraOTP
+
+0
+1 Euler would probably enjoy that now his theorem becomes a co
+2 The nice thing about Keeyloq is now we cryptographers can dr
+3 The ciphertext produced by a weak encryption algorithm looks
+4 You don't want to buy a set of car keys from a guy who speci
+5 There are two types of cryptography - that which will keep s
+6 There are two types of cyptography: one that allows the Gover
+7 We can see the point where the chip is unhappy if a wrong bit
+8 A (private-key)  encryption scheme states 3 algorithms, namel
+9  The Concise OxfordDictionary (2006) deï¬nes crypto as the a
+10 - The secret message is: When using a stream cipher, never use
+
+
+2º Criptografia
+
+0 O Centro Universitário de Brasília é uma instituição de ensino superior particular brasileira, com sede em Brasília, no Distrito Federal
+1 Segurança de computadores ou cibersegurança
+2 Criptografia é o conjunto de princípios e t
+3
+4
+5
+6
+7
+8
+9
+10 Todos os dias quando acordo. Não tenho mais o tempo que passou. Mas tenho muito tempo. Temos todo o tempo do mundo. Todos os dias. Antes de dormir. Lembro e esqueço como foi o dia. Sempre em frente. Não temos tempo a perder. Nosso suor sagrado. É bem mais belo que esse sangue amargo. E tão sério. E selvagem. Selvagem. Selvagem. Veja o sol dessa manhã tão cinza. A tempestade que chega é da cor dos teus olhos. Castanhos. Então me abraça forte. Me diz mais uma vez que já estamos. Distantes de tudo. Temos nosso próprio tempo. Temos nosso próprio tempo. Temos nosso próprio tempo. Não tenho medo do escuro. Mas deixe as luzes. Acesas. Agora. O que foi escondido é o que se escondeu. E o que foi prometido, ninguém prometeu. Nem foi tempo perdido. Somos tão jovens. Tão jovens. Tão jovens.
+11
+12
+13
+14
+15
